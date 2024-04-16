@@ -16,6 +16,9 @@ Testing credential:
 email: mahesh311094@gmail.com  
 password: 123456  
 
+Apk link:  
+https://drive.google.com/file/d/1lX50pOVWkLsjK8DS_CNS0TjT_iLgcC9c/view?usp=share_link
+
 Video sample link:  
 https://www.loom.com/share/bc1b58dafa7946e6bc81a50bfe08aaf7  
 
