@@ -1,16 +1,16 @@
 # todo_flutter
 
 Todo app is built in as below:  
-Flutter for the frontend,  
-PHP with CodeIgniter for the backend API,  
-MySQL for the database.  
+- Flutter for the frontend,  
+- PHP with CodeIgniter for the backend API,  
+- MySQL for the database.  
 
 The app will follow the MVC (Model-View-Controller) architecture.  
 And also utilize GetX for state management.  
 This combination of technologies will allow us to create a robust and efficient Todo app.  
 
 If you want to setup backend on your localhost or server then do below change in code  
-- please change baseurl in lib/utils/urls.dart file  
+please change baseurl in lib/utils/urls.dart file  
 
 Testing credential:  
 email: mahesh311094@gmail.com  
